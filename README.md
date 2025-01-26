@@ -20,7 +20,9 @@ In this report i will go through the findings i had answering the questions from
 |barcelona|2833|
 |berlin|2484|
 |amsterdam|2080|
+
 2 - Which city has the biggest proportion of superhosts?
+
 |City|Superhost_proportion|
 | ---------|--------|
 |athens|42%|
